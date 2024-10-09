@@ -3,7 +3,7 @@ body {
     background-color: white;
 }
 
-ul{
+ul {
    display: flex;
    justify-content: space-between
    
